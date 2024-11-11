@@ -23,9 +23,6 @@ A health monitoring app aimed at helping cardiovascular patients monitor their b
 ### Laser Heating GUI Simulation
 A GUI for simulating laser heating of metallic screens, enabling researchers to compare simulation videos with input videos. This project involved building an intuitive interface for analyzing pixel similarities in the long-wavelength infrared range.
 
-### Hydrogen Car Telemetry System
-Developed a telemetry system for UAlberta's EcoCar team, allowing data relay and hydrogen leak detection for a hydrogen-powered vehicle. Participated in outreach events to promote clean energy technologies and educate young students on hydrogen technology.
-
 ### [GitHub Portfolio](https://github.com/JugtojSidhu)
 Check out my repositories for other projects, including data analysis scripts, machine learning models, and app development resources.
 
